@@ -1,0 +1,3 @@
+[submodule "game dev test game 2 blue/Assets/Scripts-Submodule-test"]
+	path = game dev test game 2 blue/Assets/Scripts-Submodule-test
+	url = git@github.com:10878473/Scripts-Submodule-test.git
